@@ -1,0 +1,16 @@
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\bin\Debug\net8.0-windows\BasicCalculatorFormsApp.exe
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\bin\Debug\net8.0-windows\BasicCalculatorFormsApp.deps.json
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\bin\Debug\net8.0-windows\BasicCalculatorFormsApp.runtimeconfig.json
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\bin\Debug\net8.0-windows\BasicCalculatorFormsApp.dll
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\bin\Debug\net8.0-windows\BasicCalculatorFormsApp.pdb
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\obj\Debug\net8.0-windows\BasicCalculatorFormsApp.Form1.resources
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\obj\Debug\net8.0-windows\BasicCalculatorFormsApp.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\obj\Debug\net8.0-windows\BasicCalculatorFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\obj\Debug\net8.0-windows\BasicCalculatorFormsApp.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\obj\Debug\net8.0-windows\BasicCalculatorFormsApp.AssemblyInfo.cs
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\obj\Debug\net8.0-windows\BasicCalculatorFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\obj\Debug\net8.0-windows\BasicCalculatorFormsApp.dll
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\obj\Debug\net8.0-windows\refint\BasicCalculatorFormsApp.dll
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\obj\Debug\net8.0-windows\BasicCalculatorFormsApp.pdb
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\obj\Debug\net8.0-windows\BasicCalculatorFormsApp.genruntimeconfig.cache
+C:\Users\micha\source\repos\BasicCalculatorFormsApp\BasicCalculatorFormsApp\obj\Debug\net8.0-windows\ref\BasicCalculatorFormsApp.dll
