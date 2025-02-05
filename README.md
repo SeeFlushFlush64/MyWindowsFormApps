@@ -4,7 +4,7 @@ These are my Windows Forms apps that utilize Microsoft SQL.
 
 ## Projects
 
-### 2. **Basic Calculator Forms App**  
+### **Basic Calculator Forms App**  
 This is a simple calculator app built using Windows Forms that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 #### Features:
